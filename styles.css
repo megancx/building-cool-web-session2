@@ -1,12 +1,13 @@
-body {
+body{
     background-color: lightblue;
 }
   
 h1 {
-    color: pink;
-    margin-left: 20px;
+    color: navy;
+    
 }
 
 p {
-    color: navy;
+    color: purple;
+    margin-left: 20px;
 }
